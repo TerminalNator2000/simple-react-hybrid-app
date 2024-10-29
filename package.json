@@ -1,0 +1,5 @@
+"scripts": {
+  "web": "expo start --web",
+  "android": "expo start --android",
+  "ios": "expo start --ios"
+}
