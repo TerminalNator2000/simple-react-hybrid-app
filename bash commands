@@ -1,0 +1,21 @@
+# dependencies
+npm install -g expo-cli
+
+# create expo project
+expo init hybrid-app
+
+# install react native
+cd hybrid-app
+npm install react-native-web react-dom
+
+# Run on web
+npm run web
+
+# run on android 
+npm run android
+
+# run on ios
+npm run ios
+
+
+
